@@ -1,5 +1,7 @@
 hello
 
+git add 工作階段
+git commit 提交
 git checkout 切換分支
 git checkout -b 創建新分枝
 git status 狀態
