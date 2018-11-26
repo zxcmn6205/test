@@ -5,4 +5,5 @@ git commit 提交
 git checkout 切換分支
 git checkout -b 創建新分枝
 git status 狀態
+git merge 分支合併回master
 hello majaja
