@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hello
 
 git add 工作階段
@@ -8,8 +7,6 @@ git checkout -b 創建新分枝
 git status 狀態
 git merge 分支合併回master
 hello majaja
-=======
 hello majaja
 
 subarashi
->>>>>>> Jiotau
